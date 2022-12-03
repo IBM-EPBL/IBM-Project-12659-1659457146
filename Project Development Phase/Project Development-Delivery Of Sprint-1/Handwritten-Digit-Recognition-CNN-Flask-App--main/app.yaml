@@ -1,3 +1,0 @@
-entrypoint: "gunicorn app:app --config=config.py"
-env: flex
-runtime: python37
